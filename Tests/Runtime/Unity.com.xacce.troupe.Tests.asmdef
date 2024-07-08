@@ -1,0 +1,11 @@
+{
+  "name": "Unity.com.xacce.troupe.Tests",
+  "references": [
+    "Unity.com.xacce.troupe"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": []
+}

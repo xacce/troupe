@@ -1,0 +1,26 @@
+{
+    "name": "com.xacce.troupe.hybrid",
+    "rootNamespace": "Troupe.Hybrid",
+    "references": [
+        "Unity.Transforms",
+        "Unity.Burst",
+        "Unity.Entities",
+        "Unity.Mathematics",
+        "Unity.Collections",
+        "Unity.AI.Navigation",
+        "Unity.Entities.Hybrid",
+        "com.xacce.susanin.runtime",
+        "com.xacce.troupe",
+        "com.xacce.spatialhashing",
+        "com.xacce.introvert.hybrid",
+        "com.xacce.core.hybrid"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
